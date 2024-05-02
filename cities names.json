@@ -1,0 +1,45 @@
+{
+    "routes": [
+      {
+        "deptcity": "Mumbai CST",
+        "arrivalcity": "New Delhi"
+      },
+      {
+        "deptcity": "Chennai Central",
+        "arrivalcity": "Kolkata"
+      },
+      {
+        "deptcity": "Bangalore City Junction",
+        "arrivalcity": "Hyderabad"
+      },
+      {
+        "deptcity": "Ahmedabad Junction",
+        "arrivalcity": "Pune"
+      },
+      {
+        "deptcity": "Jaipur Junction",
+        "arrivalcity": "Lucknow"
+      },
+      {
+        "deptcity": "Patna Junction",
+        "arrivalcity": "Varanasi"
+      },
+      {
+        "deptcity": "Guwahati",
+        "arrivalcity": "Vishakhapatnam"
+      },
+      {
+        "deptcity": "Bhopal Junction",
+        "arrivalcity": "Indore"
+      },
+      {
+        "deptcity": "Chandigarh",
+        "arrivalcity": "Amritsar"
+      },
+      {
+        "deptcity": "Trivandrum Central",
+        "arrivalcity": "Kochi"
+      }
+    ]
+  }
+  
